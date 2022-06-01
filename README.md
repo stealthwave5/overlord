@@ -1,4 +1,4 @@
-# overlord
+# Overlord Framework
 
 A secure lightweight framework to build or intergrate into experiences.
 
