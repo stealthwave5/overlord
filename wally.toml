@@ -1,0 +1,8 @@
+[package]
+name = "stealthwave5/overlord"
+description = "A secure, lightweight framework."
+authors = ["ScottFaber"]
+version = "0.1.0"
+registry = "https://github.com/UpliftGames/wally-index"
+realm = "shared"
+license = "MIT"
